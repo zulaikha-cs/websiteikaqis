@@ -1,2 +1,2 @@
 # websiteikaqis
-for out assignment web programming
+for our assignment web programming
